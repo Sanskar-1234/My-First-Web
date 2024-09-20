@@ -1,0 +1,13 @@
+
+
+The name of the client is  
+age is  
+Gender is  
+address is "" 
+More about him/her 
+
+The name of the client is omkar kamlapure 
+age is 16325 
+Gender is male 
+address is "Near Datta temple Kondhave Dhavade Pune" 
+More about him/her bbckjba

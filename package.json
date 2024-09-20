@@ -1,0 +1,16 @@
+{
+  "name": "ssk",
+  "version": "1.0.0",
+  "description": "this a package created while studying and exploring node and express",
+  "main": "app.j",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanskar Kamlapure",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.5",
+    "pug": "^3.0.3"
+  }
+}
